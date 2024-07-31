@@ -40,14 +40,6 @@ This README will guide you through setting up the Docker container to run the po
 5. Open your browser and go to `http://localhost:5575`. You should see a webpage with the portfolio components.
 
 
-## Testing
-
-1. To run tests, use:
-
-    ```bash
-    npm run test
-    ```
-
 ## Project Structure
 
 - `Dockerfile`: Contains the instructions to build the Docker image.
