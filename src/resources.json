@@ -1,0 +1,39 @@
+[
+    {
+      "title": "Stack Overflow",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png",
+      "summary": "A platform for developers to learn, share their knowledge, and build their careers.",
+      "link": "https://stackoverflow.com"
+    },
+    {
+      "title": "React Documentation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
+      "summary": "Official React documentation for building user interfaces.",
+      "link": "https://reactjs.org/docs/getting-started.html"
+    },
+    {
+      "title": "Rails Documentation",
+      "image": "https://www.svgrepo.com/show/376345/rails.svg",
+      "summary": "Official Ruby on Rails documentation for building web applications.",
+      "link": "https://guides.rubyonrails.org"
+    },
+    {
+      "title": "Tailwind CSS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042",
+      "summary": "Official Tailwind CSS documentation for utility-first CSS framework.",
+      "link": "https://tailwindcss.com/docs"
+    },
+    {
+      "title": "Python",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+      "summary": "Official Python documentation for programming language.",
+      "link": "https://docs.python.org/3/"
+    },
+    {
+      "title": "PHP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434",
+      "summary": "Official PHP documentation for server-side scripting language.",
+      "link": "https://www.php.net/docs.php"
+    }
+  ]
+  

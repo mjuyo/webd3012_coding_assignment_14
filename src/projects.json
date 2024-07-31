@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Content Management System",
+      "description": "A CMS project from scratch, building the database, coding in PHP, and designing the front-end using CSS, resulting in a fully functional content management system.",
+      "projectLink": "http://bountynetwork.000.pe/",
+      "codeLink": "https://github.com/mjuyo/cms-project",
+      "techList": ["PHP", "CSS", "MySQL"]
+    },
+    {
+      "title": "Movie Search Website",
+      "description": "A React.js movie search website, developing a dynamic movie search application using an API, reusable components, and custom CSS.",
+      "projectLink": "https://fcwxjf.csb.app/",
+      "codeLink": "https://github.com/mjuyo/movie-search-website",
+      "techList": ["React", "JavaScript", "CSS", "API"]
+    },
+    {
+      "title": "Formula 1 Drivers Search App",
+      "description": "A React.js Formula 1 drivers search app, working in a group assignment to build a search application using an API.",
+      "projectLink": "https://2mmv4m.csb.app/",
+      "codeLink": "https://github.com/mjuyo/f1-drivers-search-app",
+      "techList": ["React", "JavaScript", "API"]
+    },
+    {
+      "title": "Parks and Open Spaces Search Application",
+      "description": "A search web application for parks and open spaces using a public API from the city of Winnipeg, creating a search application using JavaScript.",
+      "projectLink": "https://mjuyo.github.io/winnipeg-parks/",
+      "codeLink": "https://github.com/mjuyo/winnipeg-parks",
+      "techList": ["JavaScript", "API", "HTML", "CSS"]
+    }
+  ]
+  

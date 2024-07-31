@@ -1,0 +1,6 @@
+{
+    "description": "Summary of skills",
+    "languagesFrameworks": ["JavaScript", "TypeScript", "Python", "PHP", "Ruby on Rails", "React"],
+    "tools": ["VSCode", "Git", "Pycharm", "Terminal", "Docker", "Storybook"]
+  }
+  

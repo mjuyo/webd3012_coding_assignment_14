@@ -1,0 +1,23 @@
+{
+    "vscode": {
+      "content": {
+        "extensions": ["Prettier", "ESLint", "Live Server"],
+        "themes": ["Dracula", "One Dark Pro"],
+        "settings": ["Auto-save", "Format on save"]
+      }
+    },
+    "terminal": {
+      "content": {
+        "applications": ["iTerm2", "Hyper", "Windows Terminal"],
+        "customization": ["Oh My Zsh", "Powerlevel10k"],
+        "aliases": ["Common aliases", "shortcuts"]
+      }
+    },
+    "font": {
+      "content": {
+        "fonts": ["Fira Code", "JetBrains Mono", "Source Code Pro"],
+        "features": ["Ligatures", "Good readability"]
+      }
+    }
+  }
+  

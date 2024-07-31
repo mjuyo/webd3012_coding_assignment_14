@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Geist+Mono&display=swap');
+
+* {
+    @apply m-0 p-0 box-border;
+}
+
+body {
+    @apply text-gray-100 bg-gray-900 leading-relaxed flex flex-col min-h-screen;
+    font-family: 'Geist Mono', monospace;
+}
+
+header {
+    @apply bg-gray-900 py-8 flex justify-center border-b border-gray-700;
+}
+
+.header-container {
+    @apply w-4/5 max-w-2xl flex justify-between items-center;
+}
+
+.logo .name {
+    @apply text-cyan-400 text-2xl;
+}
+
+.logo .highlight {
+    @apply text-purple-400 text-2xl;
+}
+
+nav ul {
+    @apply list-none flex p-0;
+}
+
+nav ul li {
+    @apply mx-4;
+}
+
+nav ul li a {
+    @apply text-gray-100 font-bold transition duration-300;
+}
+
+nav ul li a:hover {
+    @apply text-pink-400;
+}
+
+nav ul li a .paren {
+    @apply text-purple-400 font-normal;
+}
+
+main {
+    @apply flex-1 p-8 max-w-2xl mx-auto;
+}
+
+section {
+    @apply mb-8;
+}
+
+h2 {
+    @apply text-2xl mb-4 text-cyan-400 font-light;
+}
+
+h3 {
+    @apply font-light pb-2;
+}
+
+.project {
+    @apply bg-gray-800 p-4 mb-4 rounded-lg border border-gray-700 shadow-md;
+}
+
+.project p {
+    @apply pb-2;
+}
+
+.project-link {
+    @apply text-cyan-400 font-bold transition duration-300;
+}
+
+.project-link:hover {
+    @apply text-pink-400;
+}
+
+footer {
+    @apply bg-gray-800 text-center py-8 border-t border-gray-700;
+}
+
+@media (max-width: 768px) {
+    .header-container {
+        @apply w-full flex-col items-center;
+    }
+
+    nav ul {
+        @apply flex-col items-center mt-4;
+    }
+
+    nav ul li {
+        @apply my-2;
+    }
+
+    .logo .name, .logo .highlight {
+        @apply text-xl;
+    }
+}
